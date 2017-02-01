@@ -16,7 +16,7 @@ Created jar will be located under target directory
 
 WARNING:
 If you want to run unit test you will have to setup your Tidal user credentials
-in [Credentials](../blob/master/src/test/java/com/hadas/krzysztof/testutils/Credentials.java) file because unit tests make
+in [Credentials](blob/master/src/test/java/com/hadas/krzysztof/testutils/Credentials.java) file because unit tests make
 real calls to Tidal to check if all API calls are working correctly.
 
 Run unit test with command `mvn test`
